@@ -7,3 +7,4 @@ Veusz是一个具有图形用户界面的科学绘图和绘图程序，旨在生
 
 Veusz官网：https://veusz.github.io/
 Veusz案例：https://veusz.github.io/examples/
+Veusz安装包：https://download.csdn.net/download/qq_41390184/85068799
